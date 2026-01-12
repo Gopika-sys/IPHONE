@@ -10,14 +10,12 @@
     <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="greensock" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
-  ---
 
   <h3 align="center">Iphone 15 Website</h3>
 
 ## <a name="introduction">🤖 Introduction</a>
 
 This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes.
----
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -28,7 +26,6 @@ This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS.
 - GSAP (Greensock)
 - Vite
 - Tailwind CSS
-  ---
 
 ## <a name="features">🔋 Features</a>
 
@@ -41,8 +38,6 @@ This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS.
 👉 **Completely Responsive**: Consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes.
 
 and many more, including code architecture and reusability 
-
----
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -59,8 +54,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Gopika-sys/IPHONE.git
-cd IPHONE
+git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git
+cd iphone-doc
 ```
 
 **Installation**
@@ -745,8 +740,4 @@ canvas {
 
 </details>
 
-
-
-
-
-
+#
