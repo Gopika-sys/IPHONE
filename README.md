@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://t3.ftcdn.net/jpg/17/17/59/56/240_F_1717595691_rUscdDuLD28J5kkmaS0MuAbRRHOgb990.jpg" alt="Project Banner">
+      <img src="https://tse1.mm.bing.net/th/id/OIP.RSkN9OFwmXJEYEfmbw9KQQHaBZ?pid=Api&P=0&h=180" alt="Project Banner">
     </a>
   <br />
 
