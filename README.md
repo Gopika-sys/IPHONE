@@ -55,17 +55,13 @@ Make sure you have the following installed:
 * [Node.js](https://nodejs.org/en)
 * [npm](https://www.npmjs.com/) (Node Package Manager)
 
-### Cloning the Repository
 
-```bash
-git clone [https://github.com/JavaScript-Mastery-Pro/iphone-doc.git](https://github.com/JavaScript-Mastery-Pro/iphone-doc.git)
-cd iphone-doc
 
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git
-cd iphone-doc
+git clone https://github.com/Gopika-sys/IPHONE.git
+cd IPHONE
 ```
 
 **Installation**
