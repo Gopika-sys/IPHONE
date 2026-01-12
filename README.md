@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://tse3.mm.bing.net/th/id/OIP.Y3eI1kk95BYnNr40u9vBDgHaEK?pid=Api&P=0&h=180" alt="Project Banner">
+      <img src="https://www.etisalat.ae/content/dam/etisalat/business-images/smb/2023/iphone/iphone-15-hero-banner-desktop-1.png" alt="Project Banner">
     </a>
   <br />
 
