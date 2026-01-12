@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="./public/assets/titanium-banner.jpg" alt="iPhone 15 Pro Titanium Banner" width="100%">
-</div>
+  <br />
+      <img src="https://tse2.mm.bing.net/th/id/OIP.zJ14YTT4dOcI29WBwDgnzAHaEK?pid=Api&P=0&h=180" alt="Project Banner">
+    </a>
+  <br />
 
   <div>
     <img src="https://img.shields.io/badge/-React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="react.js" />
