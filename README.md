@@ -1,55 +1,65 @@
 <div align="center">
   <br />
-      <img src="https://i.postimg.cc/37PnQw8n/Image-from.png" alt="Project Banner">
-    </a>
+    <img src="https://i.postimg.cc/37PnQw8n/Image-from.png" alt="Project Banner" width="800">
+  <br />
   <br />
 
   <div>
-    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
-    <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="greensock" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/-React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Three_JS-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="three.js" />
+    <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="greensock" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">Iphone 15 Website</h3>
+  <h2 align="center">iPhone 15 Pro Website Clone</h2>
+</div>
 
-## <a name="introduction">🤖 Introduction</a>
+---
 
-This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes.
+## 🤖 Introduction
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+This is a clone of Apple's iPhone 15 Pro website using **React.js** and **TailwindCSS**. It highlights the effective use of **GSAP** (Greensock Animations) and **Three.js** for displaying iPhone 15 Pro models in various colors and shapes.
 
-- React.js
-- Three.js
-- React Three Fiber
-- React Three Drei
-- GSAP (Greensock)
-- Vite
-- Tailwind CSS
 
-## <a name="features">🔋 Features</a>
 
-👉 **Beautiful Subtle Smooth Animations using GSAP**: Enhanced user experience with seamless and captivating animations powered by GSAP.
+## ⚙️ Tech Stack
 
-👉 **3D Model Rendering with Different Colors and Sizes**: Explore the iPhone 15 Pro from every angle with dynamic 3D rendering, offering various color and size options.
+* **React.js**
+* **Three.js**
+* **React Three Fiber**
+* **React Three Drei**
+* **GSAP (Greensock)**
+* **Vite**
+* **Tailwind CSS**
 
-👉 **Custom Video Carousel (made with GSAP)**: Engage users with a unique and interactive video carousel developed using GSAP for a personalized browsing experience.
+---
 
-👉 **Completely Responsive**: Consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes.
+## 🔋 Features
 
-and many more, including code architecture and reusability 
+* 👉 **Beautiful Subtle Smooth Animations**: Enhanced user experience with seamless and captivating animations powered by GSAP.
+* 👉 **3D Model Rendering**: Explore the iPhone 15 Pro from every angle with dynamic 3D rendering, offering various color and size options.
+* 👉 **Custom Video Carousel**: Engage users with a unique and interactive video carousel developed using GSAP for a personalized browsing experience.
+* 👉 **Completely Responsive**: Consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes.
+* 👉 **Clean Architecture**: Organized code structure designed for reusability and performance.
 
-## <a name="quick-start">🤸 Quick Start</a>
+---
+
+## 🤸 Quick Start
 
 Follow these steps to set up the project locally on your machine.
 
-**Prerequisites**
+### Prerequisites
 
-Make sure you have the following installed on your machine:
+Make sure you have the following installed:
+* [Git](https://git-scm.com/)
+* [Node.js](https://nodejs.org/en)
+* [npm](https://www.npmjs.com/) (Node Package Manager)
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+### Cloning the Repository
+
+```bash
+git clone [https://github.com/JavaScript-Mastery-Pro/iphone-doc.git](https://github.com/JavaScript-Mastery-Pro/iphone-doc.git)
+cd iphone-doc
 
 **Cloning the Repository**
 
